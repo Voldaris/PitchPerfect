@@ -37,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		7C0B3F661EC632C400081FB8 /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
+		7C155AAD20033BB6007BE6E3 /* CONTRIBUTIONS.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTIONS.md; sourceTree = "<group>"; };
 		7C8CF2FC1E92E6730073001D /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C8CF2FF1E92E6730073001D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C8CF3011E92E6730073001D /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +82,7 @@
 		7C8CF2F31E92E6720073001D = {
 			isa = PBXGroup;
 			children = (
+				7C155AAD20033BB6007BE6E3 /* CONTRIBUTIONS.md */,
 				7C8CF2FE1E92E6730073001D /* PitchPerfect */,
 				7C8CF3131E92E6730073001D /* PitchPerfectTests */,
 				7C8CF31E1E92E6730073001D /* PitchPerfectUITests */,
