@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7C0B3F671EC632C400081FB8 /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C0B3F661EC632C400081FB8 /* playsoundsviewcontroller-audio.swift */; };
+		7C155AAF20033C7F007BE6E3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7C155AAE20033C7F007BE6E3 /* README.md */; };
 		7C8CF3001E92E6730073001D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8CF2FF1E92E6730073001D /* AppDelegate.swift */; };
 		7C8CF3021E92E6730073001D /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8CF3011E92E6730073001D /* RecordSoundsViewController.swift */; };
 		7C8CF3051E92E6730073001D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C8CF3031E92E6730073001D /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		7C0B3F661EC632C400081FB8 /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
 		7C155AAD20033BB6007BE6E3 /* CONTRIBUTIONS.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTIONS.md; sourceTree = "<group>"; };
+		7C155AAE20033C7F007BE6E3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7C8CF2FC1E92E6730073001D /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C8CF2FF1E92E6730073001D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C8CF3011E92E6730073001D /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				7C155AAD20033BB6007BE6E3 /* CONTRIBUTIONS.md */,
+				7C155AAE20033C7F007BE6E3 /* README.md */,
 				7C8CF2FE1E92E6730073001D /* PitchPerfect */,
 				7C8CF3131E92E6730073001D /* PitchPerfectTests */,
 				7C8CF31E1E92E6730073001D /* PitchPerfectUITests */,
@@ -248,6 +251,7 @@
 			files = (
 				7C8CF30A1E92E6730073001D /* LaunchScreen.storyboard in Resources */,
 				7C8CF3071E92E6730073001D /* Assets.xcassets in Resources */,
+				7C155AAF20033C7F007BE6E3 /* README.md in Resources */,
 				7C8CF3051E92E6730073001D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
